@@ -1,2 +1,20 @@
 # my-first-repo
-My first GitHub repo - created with WorkBuddy
+
+我的第一个 GitHub 仓库 - 由 WorkBuddy 助手（阿布 🐾）协助创建
+
+## 关于
+
+- 账号 `czk9999` 创建于 2026-11-02
+- 这是养号计划的第一步
+
+## 里程碑
+
+- [x] 注册账号
+- [x] 验证邮箱
+- [x] 创建第一个仓库
+- [ ] 上传真实项目代码
+- [ ] 第一次 Pull Request
+
+## 使用说明
+
+这个仓库暂时是账号"成长记录"。之后会在这里放真实项目代码。
